@@ -24,9 +24,9 @@
 
 ## ♟ Astra Chess
 
-**Astra Chess** is my main project. **ONE-LINE DESCRIPTION OF WHAT IT DOES.**
+**Astra Chess** is my main project. 
 
-[![Astra Chess](https://github-readme-stats.vercel.app/api/pin/?username=Hixenov&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa)](https://github.com/Hixenov/astra-chess)
+[![Astra Chess](https://github-readme-stats.vercel.app/api/pin/?username=Hixenov&repo=astra-chess&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa)](https://github.com/Hixenov/astra-chess)
 
 ## 🛠 Tech stack
 
