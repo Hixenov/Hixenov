@@ -18,15 +18,15 @@
 ## 👋 About me
 
 - ♟ Currently building: **Astra Chess**
-- 🌱 Learning: **YOUR TECH / LANGUAGE**
+- 🌱 Learning: **idk**
 - 💬 Speaks English & Russian
-- ⚡ Interested in: **YOUR INTERESTS**
+- ⚡ Interested in: **Everything**
 
 ## ♟ Astra Chess
 
 **Astra Chess** is my main project. **ONE-LINE DESCRIPTION OF WHAT IT DOES.**
 
-[![Astra Chess](https://github-readme-stats.vercel.app/api/pin/?username=Hixenov&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa)](https://github.com/Hixenov/REPO_NAME)
+[![Astra Chess](https://github-readme-stats.vercel.app/api/pin/?username=Hixenov&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa)](https://github.com/Hixenov/astra-chess)
 
 ## 🛠 Tech stack
 
@@ -59,8 +59,7 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-1e1e2e?style=for-the-badge&logo=telegram&logoColor=a78bfa)](https://t.me/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:YOUR@EMAIL)
+[![Email](https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=a78bfa)](ghovs3p@duck.com)
 
 </div>
 
